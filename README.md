@@ -1,7 +1,10 @@
 # 2019 NASA SEES 'Weighing Water' Team Project
-With the **Matplotlib** and **NumPy** libraries of Python, created plots of climate data for 24 
-specified regions. Determined when the GRACE satellite passed over each of the regions and plotted the corresponding
-times onto the climate graphs. 
+The programs here generate plots used to determine specific anomolies in climate model data that NASA's GRACE (Gravity Recovery and Climate 
+Experiment) satellite was unable to detect. 
+<br /><br />
+Plots of climate data for 24 specified regions were created with the **Matplotlib** and **NumPy** libraries of Python. Then, the set of times 
+that the GRACE satellite passed over each of the regions was determined, and the corresponding
+times were plotted onto the climate graphs. 
 <br /><br />
 The 24 regions of interest are plotted on the map below. The map was created using the **Cartopy** package of Python in
 `seescode/map_visualizer.py`<br />
@@ -18,11 +21,12 @@ On the contrary, in the GLDAS graph, higher values on the y-axis correspond to l
 <br /><br /><br />
 The times that the GRACE satellite passed through each region was determined in `seescode/grace_data_analysis`. 
 These times were plotted on the original climate graphs in `seescode/model_data_w_grace`. The full list of graphs 
-can be found in the `MapsWithGRACE` folder. 
+can be found in the `MapsWithGRACE` folder. <br />
 <img src= /MapsWithGRACE/BalticSea02_GLDAS_plot.png width="600">
 <br /><br />
-The plots generated were analyzed to determine specific anomolies in the climate model data that GRACE was unable
-to detect. 
+**Note:** Most of the data used in this program, including the region names, locations, and climate data, can be accessed in the `data` folder.
+The GRACE satellite ground track data used in `seescode/grace_data_analysis` is available [here](https://utexas.app.box.com/s/5mhzi68tnqixt8rauafecgq906i4w73m).
+ 
 
 
 
