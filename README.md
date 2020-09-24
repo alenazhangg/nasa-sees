@@ -1,6 +1,6 @@
 # 2019 NASA SEES 'Weighing Water' Team Project
 In this project, we used real data from climate models to investigate the gravitational anomalies of 24 specified regions around the world that the GRACE (Gravity Recovery and Climate Experiment) satellite was unable to capture. 
-<br /><br />
+<br />
 ## Background
 The GRACE satellite creates a map of Earth's gravitational field every 30 days. As mass affects gravity and water has mass, the GRACE satellite can effectively measure water variations on Earth. More specifically, GRACE measures variations in the gravitational field due to runoff, groundwater, water storage, and fluctuating ocean levels. 
 
