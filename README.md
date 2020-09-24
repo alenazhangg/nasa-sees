@@ -22,14 +22,14 @@ On the contrary, in the GLDAS graph, higher values on the y-axis correspond to l
 The times that the GRACE satellite passed through each region was determined in `seescode/grace_data_analysis`. 
 These times were plotted on the original climate graphs in `seescode/model_data_w_grace`. The full list of graphs 
 can be found in the `MapsWithGRACE` folder. <br />
-<img src= /MapsWithGRACE/BalticSea02_GLDAS_plot.png width="600">
+<img src= /MapsWithGRACE/BalticSea02_GLDAS_plot.png width="600"><br />
 In the graph above, each red dot represents when the GRACE satellite passed over each region and was able to capture changes in hydrological variability. There are many sections of the line with no red dot on it, and these gaps represent time periods where GRACE was unable to capture any data. 
 <br /><br />
 In the graph below, there are many steep drops and spikes that are not captured by GRACE as evidenced by the lack of red crosses on those parts. In January 2008, there was a sharp drop in atmospheric variability that GRACE was not present to detect in the Baltic Sea. This short-term drop in the Baltic Sea corresponds to the seasonal flooding that the region experiences during the early months of the year. 
-
+<img src= /images/BalticSeaExample.png width="600"><br />
 <br /><br />
-Due to the relative low frequency of passes over regions, the GRACE satellite can miss short-term variations in hydrological variability or atmospheric variability. In order to improve the ability of future GRACE missions to detect these variations, our team proposed a satellite constellation consisting of three GRACE satellites. This will effectively increase the frequency of passes of GRACE over regions of the world. By being able to capture more short-term geographic phenomena, GRACE can also become a better resource to reference when forming emergency response measures to short-term geographical disasters. 
-
+Due to the relative low frequency of passes over regions, the GRACE satellite can miss short-term variations in hydrological variability or atmospheric variability. In order to improve the ability of future GRACE missions to detect these variations, our team proposed a satellite constellation consisting of three GRACE satellites. This will effectively increase the frequency of passes of GRACE over regions of the world. By being able to capture more short-term geographic phenomena, GRACE can also become a better resource to reference when deciding on emergency response measures to geographical disasters. 
+<img src= /images/graceconstellations.gif width="600"><br />
 
 **Note:** Most of the data used in this program, including the region names, locations, and climate data, can be accessed in the `data` folder.
 The GRACE satellite ground track data used in `seescode/grace_data_analysis` is available [here](https://utexas.app.box.com/s/5mhzi68tnqixt8rauafecgq906i4w73m).
