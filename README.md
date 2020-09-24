@@ -6,7 +6,7 @@ The GRACE satellite creates a map of Earth's gravitational field every 30 days. 
 
 Gravitational anomalies are caused by unusual concentrations of mass in an area. Gravitational anomalies such as mountains or trenches will consistently be captured by GRACE, but since the orbital geometry of the GRACE satellites means that it makes a global map only every 30 days, there are major short-term gravitational anomalies, such as floods, that occur without being detected by GRACE.
 
-In this project, we investigated the gravitational anomalies of 24 specified regions around the world. The regions can be found in the `data` folder. They are also shown in the map below, which was created using the **Cartopy** package of Python in `seescode/map_visualizer.py`<br />
+In this project, we investigated the gravitational anomalies of 24 specified regions around the world. The regions can be found in the `data/regions.txt` folder. They are also shown in the map below, which was created using the **Cartopy** package of Python in `seescode/map_visualizer.py`<br />
 <img src= /mapvisualizer.png width="600"><br />
 
 ## Methodology
