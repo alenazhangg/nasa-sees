@@ -40,7 +40,7 @@ Due to the relative low frequency of passes over regions, the GRACE satellite ca
 <img src= /images/graceconstellations.gif width="500"><br />
 
 **Note:** Most of the data used in this program, including the region names, locations, and climate data, can be accessed in the `data` folder.
-The GRACE satellite ground track data used in `seescode/grace_data_analysis` is available [here](https://utexas.app.box.com/s/5mhzi68tnqixt8rauafecgq906i4w73m).
+The GRACE satellite ground track data used in `seescode/grace_data_analysis.py` is available [here](https://utexas.app.box.com/s/5mhzi68tnqixt8rauafecgq906i4w73m).
  
 
 
