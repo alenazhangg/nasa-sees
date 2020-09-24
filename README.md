@@ -23,7 +23,6 @@ In the AOD graph, higher values on the y-axis correspond to higher levels of wat
 <img src= /MapsWithoutGRACE/BalticSea02_GLDAS_noGRACE_plot.png width="600"><br />
 On the contrary, in the GLDAS graph, higher values on the y-axis correspond to lower levels of water.
 <br /><br /><br />
-
 **Phase: 2**: Determine when GRACE visited each region and plot times on climate graphs <br /> <br />
 By using the GRACE satellite's ground track data (available [here](https://utexas.app.box.com/s/5mhzi68tnqixt8rauafecgq906i4w73m)), the set of times 
 that the GRACE satellite passed over each of the regions was determined, and the corresponding times were plotted onto the climate graphs. <br/>
